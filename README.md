@@ -39,14 +39,16 @@ Follow these steps to install the custom maps:
 
 ## Map Previews
 
-| Map Name        | Game Mode     | Description                          | Status          |
-|-----------------|---------------|--------------------------------------|-----------------|
-| *gg_harbor*     | Multiplayer   | A small, edit of the OG mp_harbor.        | Completed       |
+| Map Name        | Game Mode     | Description                          | Status          | Image          |
+|-----------------|---------------|--------------------------------------|-----------------|-----------------|
+| *gg_harbor*     | Multiplayer   | A small, edit of the OG mp_harbor.        | Completed       |    https://vcodmods.com/static/uploads/imgs/1-66bcf7fbdc860.webp      |
 | *gg_harbor_extra*      | Multiplayer | Bigger edit of the OG map. Thats how i vision harbor in my dreams ;)   | Completed  |
 | *gg_neon*     | Jumpmap   | First ever CoD1 Bouncemap        | Completed       |
 | *gg_neon_v2*     | Jumpmap   | A follow-up of gg_neon which turned out really nice        | Completed       |
 | *gg_neon_v3*     | Jumpmap   | A follow-up of gg_neon_v2 because it was so fun ;)        | Completed       |
 | *gg_hogwarts*      | Jumpmap   | A fun Jumpmap in hogwarts style (No exact recreation)    | beta realeased (further dev may happen)   |
+
+
 
 
 ## Features
@@ -82,7 +84,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or suggestions, feel free to contact me:
 
-- **Discord:** [thegoog](thegoog#4641)
+- **Discord:** [thegoog](https://discord.com/users/thegoog)
 - **GitHub:** [TheGoog1337](https://github.com/thegoog1337)
 
 ---

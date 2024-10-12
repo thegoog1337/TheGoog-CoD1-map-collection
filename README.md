@@ -41,13 +41,12 @@ Follow these steps to install the custom maps:
 
 | Map Name        | Game Mode     | Description                          | Status          | Image          |
 |-----------------|---------------|--------------------------------------|-----------------|-----------------|
-| *gg_harbor*     | Multiplayer   | A small, edit of the OG mp_harbor.        | Completed       |    ![](https://vcodmods.com/static/uploads/imgs/1-66bcf7fbdc860.webp)      |
-| *gg_harbor_extra*      | Multiplayer | Bigger edit of the OG map. Thats how i vision harbor in my dreams ;)   | Completed  |    <img src="https://vcodmods.com/static/uploads/imgs/7-61d47d115a68c.webp" alt="Map Screenshot" width="50"/>
-![](https://vcodmods.com/static/uploads/imgs/7-61d47d115a68c.webp)      |
-| *gg_neon*     | Jumpmap   | First ever CoD1 Bouncemap        | Completed       |     ![](https://vcodmods.com/static/uploads/imgs/7-61d47e5420a08.webp)      |
-| *gg_neon_v2*     | Jumpmap   | A follow-up of gg_neon which turned out really nice        | Completed       |     ![](https://vcodmods.com/static/uploads/imgs/7-61d4805ee21fd.webp)      |
+| *gg_harbor*     | Multiplayer   | A small, edit of the OG mp_harbor.        | Completed       |    <img src="https://vcodmods.com/static/uploads/imgs/1-66bcf7fbdc860.webp" alt="Map Screenshot" width="200"/>      |
+| *gg_harbor_extra*      | Multiplayer | Bigger edit of the OG map. Thats how i vision harbor in my dreams ;)   | Completed  |    <img src="https://vcodmods.com/static/uploads/imgs/7-61d47d115a68c.webp" alt="Map Screenshot" width="200"/> |
+| *gg_neon*     | Jumpmap   | First ever CoD1 Bouncemap        | Completed       |        <img src="https://vcodmods.com/static/uploads/imgs/7-61d47e5420a08.webp" alt="Map Screenshot" width="200"/> |
+| *gg_neon_v2*     | Jumpmap   | A follow-up of gg_neon which turned out really nice        | Completed       |        <img src="https://vcodmods.com/static/uploads/imgs/7-61d4805ee21fd.webp" alt="Map Screenshot" width="200"/> |
 | *gg_neon_v3*     | Jumpmap   | A follow-up of gg_neon_v2 because it was so fun ;)        | Completed       |     ![]()      |
-| *gg_hogwarts*      | Jumpmap   | A fun Jumpmap in hogwarts style (No exact recreation)    | beta realeased (further dev may happen)   |     ![](https://cdn.discordapp.com/attachments/798171050675666944/1236777634671890552/shot0013.jpg?ex=670b85ae&is=670a342e&hm=f5739a0f5f2cdc56d1ab8e09ec328f701abc83e87445687bbaa35ed99b168e0c&)      |
+| *gg_hogwarts*      | Jumpmap   | A fun Jumpmap in hogwarts style (No exact recreation)    | beta realeased (further dev may happen)   |        <img src="https://cdn.discordapp.com/attachments/798171050675666944/1236777634671890552/shot0013.jpg?ex=670b85ae&is=670a342e&hm=f5739a0f5f2cdc56d1ab8e09ec328f701abc83e87445687bbaa35ed99b168e0c&" alt="Map Screenshot" width="200"/> |
 
 
 

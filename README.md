@@ -7,6 +7,7 @@ Welcome to the repository for **Custom Call of Duty 1 Maps**, created using **Ra
 - [About the Project](#about-the-project)
 - [Installation](#installation)
 - [Map Previews](#map-previews)
+- [My Server](#my-server)
 - [Features](#features)
 - [Development](#development)
 - [Contributing](#contributing)
@@ -48,7 +49,38 @@ Follow these steps to install the custom maps:
 | *gg_neon_v3*     | Jumpmap   | A follow-up of gg_neon_v2 because it was so fun ;)        | Completed       |     <img src="https://cdn.discordapp.com/attachments/798171050675666944/1294734632931168287/shot0027.jpg?ex=670c1717&is=670ac597&hm=46a9bb7735dbbcae13cfd961787f2ab709a8bef2214db9c06267591ce7c4359a& Map Screenshot" width="200"/>     |
 | *gg_hogwarts*      | Jumpmap   | A fun Jumpmap in hogwarts style (No exact recreation)    | beta realeased (further dev may happen)   |        <img src="https://cdn.discordapp.com/attachments/798171050675666944/1236777634671890552/shot0013.jpg?ex=670b85ae&is=670a342e&hm=f5739a0f5f2cdc56d1ab8e09ec328f701abc83e87445687bbaa35ed99b168e0c&" alt="Map Screenshot" width="200"/> |
 
+## My Server
 
+<div style="background-color: #343a40; padding: 10px; color: white;">
+    <div style="display: flex; gap: 10px;">
+        <div style="flex: 1;">
+            <img src="https://cod.pm/mp_maps/cod1+coduo/stock/mp_carentan.png" alt="mp_carentan" title="mp_carentan" style="border-radius: 5px; width: 100%;">
+            <div style="margin-top: 10px;">
+                <p><strong>Location:</strong> Germany</p>
+                <p><strong>Network:</strong> Amazon.com, Inc.</p>
+                <p><strong>Extension:</strong> libcod1</p>
+                <p><strong>Server Viewer:</strong> <a href="https://cod.pm/server/3.73.104.222/28960" style="color: #0d6efd;">/server/3.73.104.222/28960</a></p>
+            </div>
+        </div>
+        <div style="flex: 1;">
+            <table style="width: 100%; border-collapse: collapse; background-color: #23272b; color: white; border: 1px solid #444;">
+                <thead>
+                    <tr style="background-color: #495057;">
+                        <th style="padding: 5px; border: 1px solid #444;">Name</th>
+                        <th style="padding: 5px; border: 1px solid #444;">Score</th>
+                        <th style="padding: 5px; border: 1px solid #444;">Ping</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="3" style="padding: 5px; text-align: center;">No players.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p style="font-size: 12px; font-style: italic; text-align: right; color: #ccc;">Players last seen on 2024-10-11 17:01:36 UTC</p>
+        </div>
+    </div>
+</div>
 
 
 ## Features

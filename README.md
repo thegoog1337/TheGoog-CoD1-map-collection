@@ -41,7 +41,7 @@ Follow these steps to install the custom maps:
 
 | Map Name        | Game Mode     | Description                          | Status          | Image          |
 |-----------------|---------------|--------------------------------------|-----------------|-----------------|
-| *gg_harbor*     | Multiplayer   | A small, edit of the OG mp_harbor.        | Completed       |    https://vcodmods.com/static/uploads/imgs/1-66bcf7fbdc860.webp      |
+| *gg_harbor*     | Multiplayer   | A small, edit of the OG mp_harbor.        | Completed       |    (https://vcodmods.com/static/uploads/imgs/1-66bcf7fbdc860.webp)      |
 | *gg_harbor_extra*      | Multiplayer | Bigger edit of the OG map. Thats how i vision harbor in my dreams ;)   | Completed  |
 | *gg_neon*     | Jumpmap   | First ever CoD1 Bouncemap        | Completed       |
 | *gg_neon_v2*     | Jumpmap   | A follow-up of gg_neon which turned out really nice        | Completed       |

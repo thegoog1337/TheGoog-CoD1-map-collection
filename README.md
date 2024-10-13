@@ -26,16 +26,7 @@ These maps are designed to have a lot of fun with vanilla CoD1.
 Follow these steps to install the custom maps:
 
 1. **Download the map files** from this repository.
-2. Move the downloaded `.map` files to the following directory:
-    - For single-player maps: 
-      ```
-      C:\Program Files\Call of Duty\Main\maps
-      ```
-    - For multiplayer maps:
-      ```
-      C:\Program Files\Call of Duty\Main\mp
-      ```
-3. Launch *Call of Duty 1* and select the map from the multiplayer or single-player map selection screen.
+2. Open the downloaded `.map` files with CoDRadiant.
 
 ## Map Previews
 

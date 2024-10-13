@@ -1,6 +1,6 @@
-# TheGoog' custom Call of Duty 1 Maps - created with Radiant Editor
+# TheGoog' custom Call of Duty 1 Raw Maps - created with Radiant Editor
 
-Welcome to the repository for **Custom Call of Duty 1 Maps**, created using **Radiant**, the level editor for the Quake III engine. This repository is dedicated to sharing my custom-made multiplayer maps for the original *Call of Duty (2003)*.
+Welcome to my repo for **Custom Call of Duty 1 Maps**, created using **Radiant**, the level editor for the Quake III engine. This repository is dedicated to sharing my custom-made multiplayer maps for the original *Call of Duty (2003)*.
 
 ### Table of Contents
 
@@ -17,7 +17,7 @@ Welcome to the repository for **Custom Call of Duty 1 Maps**, created using **Ra
 
 ## About the Project
 
-This project contains a collection of custom multiplayer designed for the original *Call of Duty 1* game. The maps have been created using the **Radiant Level Editor**, which is widely used for building maps for Quake-engine games.
+This project contains a collection of custom multiplayer maps designed for the original *Call of Duty 1* game. The maps have been created using the **Radiant Level Editor**, which is widely used for building maps for Quake-engine games.
 
 These maps are designed to have a lot of fun with vanilla CoD1.
 
@@ -27,6 +27,7 @@ Follow these steps to install the custom maps:
 
 1. **Download the map files** from this repository.
 2. Open the downloaded `.map` files with CoDRadiant.
+3. When opened you may find missing textures here and there. Im not gonna provide those. You have to replace them.
 
 ## Map Previews
 

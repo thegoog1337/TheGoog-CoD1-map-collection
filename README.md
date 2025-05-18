@@ -1,6 +1,6 @@
-# TheGoog' custom Call of Duty 1 Raw Maps - created with Radiant Editor
+# TheGoog' custom Call of Duty 1 Raw Maps - created with CoDRadiant Editor
 
-Welcome to my repo for **Custom Call of Duty 1 Maps**, created using **Radiant**, the level editor for the Quake III engine. This repository is dedicated to sharing my custom-made multiplayer maps for the original *Call of Duty (2003)*.
+Welcome to my repo for **Custom Call of Duty 1 Maps**, created using **CoDRadiant**, a level editor based on **Q3Radiant** for the Quake III engine. This repository is dedicated to sharing my custom-made multiplayer maps for the original *Call of Duty (2003)*.
 
 ### Table of Contents
 
@@ -44,9 +44,15 @@ Follow these steps to install the custom maps:
 ## Features
 
 - **Custom Layouts:** Each map offers unique environments with different challenges and strategic opportunities.
-- **Jump maps:** Maps are optimized for multiplayer jumping - best Server is Jump-It! /connect 78.46.106.94:28961
-- **Bounce maps:** Maps are optimized for multiplayer bounceing - best Server is Jump-It! /connect 78.46.106.94:28961
-- **New Textures & Models:** Some maps include custom textures and models to provide a fresh experience wich **wont be included here**.
+- **Jump maps:** Maps are optimized for multiplayer jumping - best Server is Jump-It!
+  ```
+  /connect 78.46.106.94:28961
+  ```
+- **Bounce maps:** Maps are optimized for multiplayer bounceing - best Server is Jump-It!
+  ```
+  /connect 78.46.106.94:28961
+  ```
+- **New Textures & Models:** Some maps include custom textures and models to provide a fresh experience which **wont be included here**.
 
 ## Development
 

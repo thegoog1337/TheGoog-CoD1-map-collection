@@ -35,11 +35,12 @@ Follow these steps to install the custom maps:
 |-----------------|---------------|--------------------------------------|-----------------|-----------------|
 | *gg_harbor*     | Multiplayer   | A small, edit of the OG mp_harbor.        | Completed       |    <img src="https://vcodmods.com/static/uploads/imgs/1-66bcf7fbdc860.webp" alt="Map Screenshot" width="200"/>      |
 | *gg_harbor_extra*      | Multiplayer | Bigger edit of the OG map. Thats how i vision harbor in my dreams ;)   | Completed  |    <img src="https://vcodmods.com/static/uploads/imgs/7-61d47d115a68c.webp" alt="Map Screenshot" width="200"/> |
-| *gg_neon*     | Jumpmap   | First ever CoD1 Bouncemap        | Completed       |        <img src="https://vcodmods.com/static/uploads/imgs/7-61d47e5420a08.webp" alt="Map Screenshot" width="200"/> |
-| *gg_neon_v2*     | Jumpmap   | A follow-up of gg_neon which turned out really nice        | Completed       |        <img src="https://vcodmods.com/static/uploads/imgs/7-61d4805ee21fd.webp" alt="Map Screenshot" width="200"/> |
+| *gg_neon*     | Jumpmap   | First ever CoD1 Bouncemap        | Completed       |        <img src="https://vcodmods.com/static/uploads/imgs/1-67cafa2887970165856002.webp" alt="Map Screenshot" width="200"/> |mini
+| *gg_neon_v2*     | Jumpmap   | A follow-up of gg_neon which turned out really nice        | Completed       |        <img src="https://vcodmods.com/static/uploads/imgs/1-67cb08a7024ff901177726.webp" alt="Map Screenshot" width="200"/> |
 | *gg_neon_v3*     | Jumpmap   | A follow-up of gg_neon_v2 because it was so fun ;)        | Completed       |     <img src="https://vcodmods.com/static/uploads/imgs/1-66bd072fe479b.webp" alt="Map Screenshot" width="200"/>     |
 | *gg_hogwarts*      | Jumpmap   | A fun Jumpmap in hogwarts style (No exact recreation)    | beta realeased (further dev may happen)   |        <img src="https://vcodmods.com/static/uploads/imgs/1-6653c042684a0.webp" alt="Map Screenshot" width="200"/> |
-
+| *gg_miniharbor*      | Multiplayer   | A small harbor, perfect for 1v1 or 2v2.    | Completed   |        <img src="https://github.com/cato-a/CODPM-MapImages/blob/main/cod1+coduo/custom/gg_miniharbor.png?raw=true" alt="Map Screenshot" width="200"/> |
+| *gg_splattertown*      | Multiplayer   | A small Paintball arena themed map    | Completed   |        <img src="https://github.com/cato-a/CODPM-MapImages/blob/main/cod1+coduo/custom/gg_splattertown.png?raw=true" alt="Map Screenshot" width="200"/> |
 
 ## Features
 
